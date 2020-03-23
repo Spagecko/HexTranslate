@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    font-family: Arial;
+    line-height: 20px;
+  }
+  #header {
+    height: 20px;
+    background: #222;
+    color: white;
+  }
+  #content {
+    min-height: calc(100vh - 40px);
+  }
+  #footer {
+ 
+    background: #222;
+    color: blue;
+  }
+
+  .site-footer {
+    background: orange;
+  }
+  
